@@ -50,3 +50,17 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## link active externally for 3 months :
 ### http://firefly.pythonanywhere.com/
+
+---
+### Walk through
+* access the link, you will see this window.
+![img.png](img.png)
+
+* Paste sample web link as : https://www.youtube.com/ and click the **shorten url** button.
+![img_1.png](img_1.png)
+
+* You will get a newly generated link, like the one below:
+![img_2.png](img_2.png)
+
+The new link is a **disguised** link, leading to the same website.
+![img_3.png](img_3.png)
